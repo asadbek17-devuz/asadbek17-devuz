@@ -3,7 +3,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img alt="Toirov Asadbek, full-stack developer from Navoiy" src="./assets/hero-light.svg" width="100%">
+  <img alt="Toirov Asadbek, full-stack developer from Tashkent" src="./assets/hero-light.svg" width="100%">
 </picture>
 
 <p align="center">
